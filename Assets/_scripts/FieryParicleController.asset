@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a570f90466b03ea4ea9f83cba022fe15, type: 3}
+  m_Name: FieryParicleController
+  m_EditorClassIdentifier: 
+  allySpawnParticleSystem: {fileID: 19800004, guid: 3af6f68141914ca43ba39b2403757bd0, type: 3}
+  enemySpawnParticleSystem: {fileID: 198194127032045410, guid: 46876a2780737ec45a19d62f88e5ce56, type: 3}
+  hollowSpawnParticleSystem: {fileID: 19800004, guid: 7867af58a6ec48846ae807eb4022fbaa, type: 3}
