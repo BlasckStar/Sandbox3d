@@ -12,6 +12,9 @@ public class Shell : MonoBehaviour
     [SerializeField]
     ShellController shellController;
 
+    [SerializeField]
+    ShellNavigation shellNavigation;
+
     // Start is called before the first frame update
     void Start()
     {
